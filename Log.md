@@ -15,3 +15,11 @@ I talked to some friends about coding in general and exchanged ideas.
 ## 10/18/2021
 
 I completed the algorithm homework on stacks and queues and also did another solidity lesson.
+
+The lesson involved writing tests for Smart Contracts on the Ethereum blockchain. The technology involved was Mocha/Chai (already familiar with from writing tests for APIs as well as examining the tests for our homework). Mocha is a test framework for Node.js that makes it easy to write asynchronous tests. Chai is BDD (Behavior-Driven-Development)/ TDD (Test-Driven-Development) library that is commonly paired with Mocha. The library contains the following styles: Should, Expect, and Assert. Truffle is a development environment and testing framework used for Ethereum and Ganache is a personal blockchain that allows for testing.
+
+When writing tests in Truffle you can put an 'x' in front of the test i.e. xit("should skip this test", callback) -- and the test will be marked as pending when run.
+
+## 10/19/21
+
+Today I found an app called CodeAcademy. It is something I can use on my phone that helps me to solidify the basic concepts in JavaScript, React, and Python. I tweeted about it to share with others as I think it would be a good resource to use. I did some of the problems and they are very good for review.

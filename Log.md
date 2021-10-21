@@ -23,3 +23,7 @@ When writing tests in Truffle you can put an 'x' in front of the test i.e. xit("
 ## 10/19/21
 
 Today I found an app called CodeAcademy. It is something I can use on my phone that helps me to solidify the basic concepts in JavaScript, React, and Python. I tweeted about it to share with others as I think it would be a good resource to use. I did some of the problems and they are very good for review.
+
+## 10/20/21
+
+I found another app called Sololearn. It has more options than Codecademy. I'm enjoying being able to find small things that can help me learn more about coding. I also started to write my first smart contract in Solidity. I downloaded Truffle and Ganache, and started following a tutorial. I also joined a discord that can give me more opportunities. 

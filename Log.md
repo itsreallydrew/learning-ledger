@@ -27,3 +27,7 @@ Today I found an app called CodeAcademy. It is something I can use on my phone t
 ## 10/20/21
 
 I found another app called Sololearn. It has more options than Codecademy. I'm enjoying being able to find small things that can help me learn more about coding. I also started to write my first smart contract in Solidity. I downloaded Truffle and Ganache, and started following a tutorial. I also joined a discord that can give me more opportunities. 
+
+## 10/21/21 
+
+Finished a short tutorial getting more familiar with writing smart contracts and interacting with the Ethereum network. I also downloaded a metamask wallet. Excited for more opportunities to sharpen my skills. Also will begin working on my portfolio site.

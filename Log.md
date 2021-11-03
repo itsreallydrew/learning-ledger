@@ -27,3 +27,7 @@ Today I found an app called CodeAcademy. It is something I can use on my phone t
 ## 10/20/21
 
 I found another app called Sololearn. It has more options than Codecademy. I'm enjoying being able to find small things that can help me learn more about coding. I also started to write my first smart contract in Solidity. I downloaded Truffle and Ganache, and started following a tutorial. I also joined a discord that can give me more opportunities. 
+
+## 11/3/21
+
+Solved a tough problem on Codewars today. It took me awhile but I learned that I needed to make sure I fully understood the problem I was trying to solve. I didn't read the question thoroughly enough at first so I was confused why my answer didn't work. But after taking time to reread I was able to alter my code and get the proper solution. Learning is challenging but rewarding!
